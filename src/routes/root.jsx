@@ -13,7 +13,7 @@ export default function Root() {
       <div id="sidebar">
         <h1>React Router Contacts</h1>
         <div>
-          <form id="search-form" role="search">
+          <form id="search-form" role="searchhh">
             <input
               id="q"
               aria-label="Search contacts"
